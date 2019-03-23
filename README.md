@@ -2,9 +2,7 @@
 
 A flutter sample product page
 
-## Image
-
-![Sample](https://i.ibb.co/DGD5Zsk/Screenshot-2019-03-23-15-36-33.png)
+![Sample](https://media.giphy.com/media/8AaHZZwyLwx9ynOqvR/giphy.gif)
 
 ## Credit
 
